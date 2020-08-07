@@ -85,13 +85,13 @@ nav > a:hover{
 	font-size: 70px;
 	color: #fff;
 	border-radius: 2px;
-    box-shadow: 0 2px 0px rgba(1, 245, 248);
+    box-shadow: 0 2px 0px #2B6EA8;
 }
 .textos-header h2{
 	font-size: 27px;
 	color: #fff;
 	border-radius: 2px;
-    box-shadow: 0 2px 0px rgba(1, 245, 248);
+    box-shadow: 0 2px 0px #2B6EA8;
 }
 .wave{
 	position: absolute;
@@ -175,7 +175,7 @@ main  .sobre-nosotros{
     text-transform: uppercase;
     font-size: 14px;
     border-radius: 5px;
-    box-shadow: 0 8px 32px rgba(1, 245, 248);
+    box-shadow: 0 8px 32px #2B6EA8;
 }
 .imagen-about-us{
 	
@@ -272,7 +272,7 @@ main  .sobre-nosotros{
     text-transform: uppercase;
     font-size: 14px;
     border-radius: 5px;
-    box-shadow: 0 8px 32px rgba(1, 245, 248);
+    box-shadow: 0 8px 32px #2B6EA8;
 }
 
  .cards {
@@ -287,7 +287,7 @@ main  .sobre-nosotros{
  	align-items: center;
  	justify-content: space-evenly;
  	border-radius: 10px;
- 	box-shadow: 0 0 6px 0 rgba(1, 245, 248);  
+ 	box-shadow: 0 0 6px 0 #2B6EA8;  
  }
  .cards .card img{
  	width: 250px;
@@ -333,7 +333,7 @@ main  .sobre-nosotros{
     transition: 0.5s;
 }
 .servicio:hover{
-	box-shadow: 0 10px 10px rgba(1, 245, 248);
+	box-shadow: 0 10px 10px #2B6EA8;
 }
  .servicio-ind img{
  	font-size: 30px;
@@ -392,7 +392,7 @@ main  .sobre-nosotros{
     text-transform: uppercase;
     font-size: 14px;
     border-radius: 5px;
-    box-shadow: 0 8px 32px rgba(1, 245, 248);
+    box-shadow: 0 8px 32px #2B6EA8;
 }
  footer{
  	background: #2B6EA8;
