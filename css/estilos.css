@@ -153,10 +153,10 @@ main  .sobre-nosotros{
 
 
 .results-text>a {
-    color: #1DC2FF;
+    color: #2B6EA8;
     text-decoration: none;
     display: inline-block;
-    border: 1px solid #1DC2FF;
+    border: 1px solid #2B6EA8;
     padding: 10px 0;
     width: 120px;
     text-align: center;
@@ -166,7 +166,7 @@ main  .sobre-nosotros{
 	margin: 5px 5px 0 0px ;
     width: 150px;
     display: inline-block;
-    background: #1DC2FF;
+    background: #2B6EA8;
     text-align: center;
     color: #fff;
     padding: 12px 0;
@@ -250,10 +250,10 @@ main  .sobre-nosotros{
  	transform: scale(1);
  }
 .Galeria-gale >a {
-    color: #1DC2FF;
+    color: #2B6EA8;
     text-decoration: none;
     display: inline-block;
-    border: 1px solid #1DC2FF;
+    border: 1px solid #2B6EA8;
     padding: 10px 0;
     width: 120px;
     text-align: center;
@@ -263,7 +263,7 @@ main  .sobre-nosotros{
 	margin: 5px 5px 0 0px ;
     width: 150px;
     display: inline-block;
-    background: #1DC2FF;
+    background: #2B6EA8;
     text-align: center;
     color: #fff;
     padding: 12px 0;
@@ -280,7 +280,7 @@ main  .sobre-nosotros{
  	justify-content: space-between;
  }
  .cards .card{
- 	background:  #1DC2FF;
+ 	background:  #2B6EA8;
  	display: flex;
  	width: 46%;
  	height: 500px;
@@ -370,10 +370,10 @@ main  .sobre-nosotros{
     transition: color .5s;
 }
 .servicio-ind >a {
-    color: #1DC2FF;
+    color: #2B6EA8;
     text-decoration: none;
     display: inline-block;
-    border: 1px solid #1DC2FF;
+    border: 1px solid #2B6EA8;
     padding: 10px 0;
     width: 120px;
     text-align: center;
@@ -383,7 +383,7 @@ main  .sobre-nosotros{
 	margin: 5px 5px 0 0px ;
     width: 150px;
     display: inline-block;
-    background: #1DC2FF;
+    background: #2B6EA8;
     text-align: center;
     color: #fff;
     padding: 12px 0;
