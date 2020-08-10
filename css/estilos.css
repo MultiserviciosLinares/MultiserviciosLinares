@@ -114,13 +114,13 @@ nav > a:hover{
 }
 .textos-header h1{
 	font-size: 70px;
-	color: #2B6EA8;
+	color: #fff;
 	border-radius: 2px;
     box-shadow: 0 2px 0px #2B6EA8;
 }
 .textos-header h2{
 	font-size: 27px;
-	color: #2B6EA8;
+	color: #fff;
 	border-radius: 2px;
     box-shadow: 0 2px 0px #2B6EA8;
 }
